@@ -1,0 +1,4 @@
+# Acest comentariu va fi ignorat
+127.0.0.1       localhost
+::1             localhost
+192.168.1.1     router.local

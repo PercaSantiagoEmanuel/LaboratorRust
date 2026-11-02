@@ -1,0 +1,6 @@
+a
+supercalifragilisticexpialidocious
+Hello world!
+EqualBytes!
+EqualChars!
+Text cu spatii la sfarsit
